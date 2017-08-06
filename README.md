@@ -2,6 +2,8 @@
 Simple http server for serving on directory in go
 
 ## Usage
+Getting it though `go get github.com/yrom/simple-http-server` at first.
+
 ```
 $ cd WORK-DIR
 $ $GOPATH/bin/simple-http-server 8080
